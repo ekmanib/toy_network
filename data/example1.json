@@ -1,0 +1,189 @@
+{
+    "nodes": [
+        {
+            "name": "节点1",
+            "category": 0
+        },
+        {
+            "name": "节点2",
+            "category": 1
+        },
+        {
+            "name": "节点3",
+            "category": 2
+        },
+        {
+            "name": "节点4",
+            "category": 0
+        },
+        {
+            "name": "节点5",
+            "category": 1
+        },
+        {
+            "name": "节点6",
+            "category": 2
+        },
+        {
+            "name": "节点7",
+            "category": 0
+        },
+        {
+            "name": "节点8",
+            "category": 1
+        },
+        {
+            "name": "节点9",
+            "category": 2
+        },
+        {
+            "name": "节点10",
+            "category": 0
+        },
+        {
+            "name": "节点11",
+            "category": 1
+        },
+        {
+            "name": "节点12",
+            "category": 2
+        },
+        {
+            "name": "节点13",
+            "category": 0
+        },
+        {
+            "name": "节点14",
+            "category": 1
+        },
+        {
+            "name": "节点15",
+            "category": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 2,
+            "target": 9
+        },
+        {
+            "source": 2,
+            "target": 10
+        },
+        {
+            "source": 2,
+            "target": 11
+        },
+        {
+            "source": 2,
+            "target": 12
+        },
+        {
+            "source": 3,
+            "target": 13
+        },
+        {
+            "source": 3,
+            "target": 14
+        },
+        {
+            "source": 3,
+            "target": 15
+        },
+        {
+            "source": 3,
+            "target": 16
+        },
+        {
+            "source": 4,
+            "target": 17
+        },
+        {
+            "source": 4,
+            "target": 18
+        },
+        {
+            "source": 4,
+            "target": 19
+        },
+        {
+            "source": 4,
+            "target": 20
+        },
+        {
+            "source": 5,
+            "target": 21
+        },
+        {
+            "source": 5,
+            "target": 22
+        },
+        {
+            "source": 5,
+            "target": 23
+        },
+        {
+            "source": 5,
+            "target": 24
+        },
+        {
+            "source": 6,
+            "target": 25
+        },
+        {
+            "source": 6,
+            "target": 26
+        },
+        {
+            "source": 6,
+            "target": 27
+        },
+        {
+            "source": 6,
+            "target": 28
+        }
+    ],
+    "categories": [
+        {
+            "name": "类目1"
+        },
+        {
+            "name": "类目2"
+        },
+        {
+            "name": "类目3"
+        }
+    ]
+}
